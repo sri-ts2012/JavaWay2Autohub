@@ -22,6 +22,7 @@ public class accessdemo1testchild extends Accessdemotestparent   {
 				//System.out.println(obj.privateVariable);
 				System.out.println(obj.publicVariable);
 				System.out.println(obj.protectedVariable);
+				System.out.println("printing this for gitdemo");
 			//System.out.println(obj.defaultVariable);
 			
 		
